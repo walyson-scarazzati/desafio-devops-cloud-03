@@ -13,4 +13,8 @@ Link para o repositório do projeto conversão de distância:
 Link para o repositório do projeto fake shop:
 https://github.com/walyson-scarazzati/fake-shop.git
 
+## Desafio 03 Pipelines CI CD | Entregas automatizadas com Github Actions
+
+Link para o repositório do projeto fake shop:
+https://github.com/walyson-scarazzati/fake-shop.git 
 
