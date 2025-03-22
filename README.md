@@ -11,6 +11,6 @@ Link para o repositório do projeto conversão de distância:
 ## Desafio 02 - Kubernetes
 
 Link para o repositório do projeto fake shop:
-
+https://github.com/walyson-scarazzati/fake-shop.git
 
 
